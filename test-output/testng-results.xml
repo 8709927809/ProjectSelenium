@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52938" started-at="2019-08-27T15:41:42Z" finished-at="2019-08-27T15:42:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52938" started-at="2019-08-27T15:41:42Z" finished-at="2019-08-27T15:42:35Z">
+      <class name="MavenAmazonProject.MavenAmazonProject.AmazonTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:MavenAmazonProject.MavenAmazonProject.AmazonTest@3869f4]" name="configBc" is-config="true" duration-ms="3822" started-at="2019-08-27T15:41:42Z" finished-at="2019-08-27T15:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBeforeMtd()[pri:0, instance:MavenAmazonProject.MavenAmazonProject.AmazonTest@3869f4]" name="configBeforeMtd" is-config="true" duration-ms="18015" started-at="2019-08-27T15:41:46Z" finished-at="2019-08-27T15:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMtd -->
+        <test-method status="PASS" signature="selectOneProductAndAddToCart()[pri:0, instance:MavenAmazonProject.MavenAmazonProject.AmazonTest@3869f4]" name="selectOneProductAndAddToCart" duration-ms="25277" started-at="2019-08-27T15:42:04Z" finished-at="2019-08-27T15:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectOneProductAndAddToCart -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:MavenAmazonProject.MavenAmazonProject.AmazonTest@3869f4]" name="configAM" is-config="true" duration-ms="3078" started-at="2019-08-27T15:42:29Z" finished-at="2019-08-27T15:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:MavenAmazonProject.MavenAmazonProject.AmazonTest@3869f4]" name="configAC" is-config="true" duration-ms="2697" started-at="2019-08-27T15:42:32Z" finished-at="2019-08-27T15:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- MavenAmazonProject.MavenAmazonProject.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
